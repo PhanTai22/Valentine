@@ -2,7 +2,7 @@ const nameGirl = 'Phương Thùy';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100059807335395';
 const eventName = 'Valentine';
 const titleCard = 'Tặng em';
-const contentCard = 'Gửi Thùy!!!💘My little angel, dù khoảng cách bắc nam có xa đến mấy thì cũng không ngăn cản được tấm lòng của anh. Chúc em một ngày Valentine vui vẻ và dịu dàng hơn với anh nhé <3';
+const contentCard = 'Gửi Thùy!!!💘Dù khoảng cách bắc nam có xa đến mấy thì cũng không ngăn cản được tấm lòng của anh. Chúc em một ngày Valentine vui vẻ và dịu dàng hơn với anh nhé <3';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
